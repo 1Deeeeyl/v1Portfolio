@@ -1,0 +1,7 @@
+h1{
+    font-size:clamp(2.951rem, 2.907rem + 0.195vw, 3.063rem);
+}
+
+p{
+    font-size: 1rem;
+}
