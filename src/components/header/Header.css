@@ -1,10 +1,17 @@
-h1{
-    font-size: clamp(2.4375rem, 2.2174rem + 0.939vw, 3.0625rem);
+h1 {
+  font-size: clamp(2.4375rem, 2.2174rem + 0.939vw, 3.0625rem);
 }
-h2{
-    font-size: 1.56rem
+h2 {
+  font-size: 1.56rem;
 }
 
-p{
-    font-size: 1rem
+p {
+  font-size: 1rem;
+}
+
+.hand {
+  background-image: url("../../assets/images/emoji/wavingHand.png");
+  background-size: contain; /* Ensures the image fills the span */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  cursor: pointer;
 }
