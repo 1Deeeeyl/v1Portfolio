@@ -4,7 +4,7 @@ import RightColumn from "./RightColumn"
 
 function Container() {
   return (
-    <div className="px-4 my-16">
+    <div className="px-4 y-16">
       <LeftColumn/>
       <RightColumn/>
     </div>
