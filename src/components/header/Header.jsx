@@ -11,7 +11,7 @@ function Header() {
           Hello, I&apos;m Dale.
           <span className="inline-block ml-2 align-center hand size-9"></span>
         </h1>
-        <h2 className="mt-1 font-sans font-medium tracking-wider">
+        <h2 className="mt-1 font-sans font-medium tracking-wider title">
           Frontend Developer
         </h2>
         <p className="flex items-center mt-5 font-sans font-medium tracking-wider">

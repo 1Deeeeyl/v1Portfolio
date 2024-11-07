@@ -1,29 +1,6 @@
-.github {
-  background-image: url("../../assets/svg/github.svg");
-  background-size: contain; /* Ensures the image fills the span */
-  background-repeat: no-repeat; /* Prevents image repetition */
-  cursor: pointer;
-}
-
-.linkedin {
-  background-image: url("../../assets/svg/linkedin.svg");
-  background-size: contain; /* Ensures the image fills the span */
-  background-repeat: no-repeat; /* Prevents image repetition */
-  cursor: pointer;
-}
-
-.codepen {
-  background-image: url("../../assets/svg/codepen.svg");
-  background-size: contain; /* Ensures the image fills the span */
-  background-repeat: no-repeat; /* Prevents image repetition */
-  cursor: pointer;
-}
-
 .point {
   background-image: url("../../assets/images/emoji/pointyFinger.png");
   background-size: contain; /* Ensures the image fills the span */
   background-repeat: no-repeat; /* Prevents image repetition */
   cursor: pointer;
 }
-
-
