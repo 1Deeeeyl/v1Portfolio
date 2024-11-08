@@ -1,17 +1,16 @@
 // import React from 'react'
-import LeftColumn from "./LeftColumn"
-import RightColumn from "./RightColumn"
+import LeftColumn from "./LeftColumn";
+import RightColumn from "./RightColumn";
 
 function Container() {
   return (
-    <div className="px-4 my-16 mx">
-      <LeftColumn/>
-      <RightColumn/>
+    <div className="px-4 mx-auto my-16">
+      <LeftColumn />
+      <RightColumn />
     </div>
-  )
+  );
 }
 
-
-export default Container
+export default Container;
 
 // ayusin containers width
