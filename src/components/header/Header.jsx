@@ -5,7 +5,7 @@ import Links from "../links/Links";
 
 function Header() {
   return (
-    <header>
+    <header className="lg:w-1/2 lg:max-h-screen lg:flex lg:flex-col lg:gap-96">
       <div>
         <h1 className="font-sans font-bold ">
           Hello, I&apos;m Dale.
@@ -22,14 +22,18 @@ function Header() {
           />
           Philippines
         </p>
-        <p className="flex items-center font-sans font-medium tracking-wider">
+
+        <a
+          href="mailto:porciuncula.randale@gmail.com"
+          className="flex items-center font-sans font-medium tracking-wider underline decoration-slate-50 decoration-solid decoration-2 underline-offset-2"
+        >
           <img
             className="mr-1.5 size-5"
             src="src\assets\images\emoji\envelope.png"
             alt="Envelope Emoji"
           />
           porciuncula.randale@gmail.com
-        </p>
+        </a>
         <Nav />
       </div>
       <Links />

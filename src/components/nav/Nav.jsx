@@ -2,7 +2,7 @@
 
 function Nav() {
   return (
-    <nav className="mt-12">
+    <nav className="hidden mt-10 lg:block">
       <ul>
         <li className="flex items-center">
           <span className="inline-block mr-2 bg-slate-50/40 size-1"></span>
