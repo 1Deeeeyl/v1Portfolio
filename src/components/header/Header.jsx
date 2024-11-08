@@ -5,7 +5,7 @@ import Links from "../links/Links";
 
 function Header() {
   return (
-    <header className="lg:w-1/2 lg:max-h-screen lg:flex lg:flex-col lg:gap-96">
+    <header className="lg:w-1/2 lg:max-h-screen lg:flex lg:flex-col lg:py-24 lg:justify-between lg:sticky lg:top-0">
       <div>
         <h1 className="font-sans font-bold ">
           Hello, I&apos;m Dale.

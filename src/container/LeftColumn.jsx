@@ -2,11 +2,7 @@
 import Header from "../components/header/Header";
 
 function LeftContainer() {
-  return (
-    <>
-      <Header />
-    </>
-  );
+  return <Header />;
 }
 
 export default LeftContainer;

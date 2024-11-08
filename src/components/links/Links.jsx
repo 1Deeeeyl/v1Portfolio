@@ -3,7 +3,7 @@ import "./Links.css";
 
 function Links() {
   return (
-    <ul className="flex mt-10 space-x-4 lg:mt-0">
+    <ul className="flex mt-10 space-x-4">
       <li>
         <span className="inline-block text-base align-top point size-6"></span>
         <a
