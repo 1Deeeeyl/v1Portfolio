@@ -2,5 +2,5 @@
   background-image: url("../../assets/images/emoji/pointyFinger.png");
   background-size: contain; /* Ensures the image fills the span */
   background-repeat: no-repeat; /* Prevents image repetition */
-  cursor: pointer;
+  cursor:default;
 }
