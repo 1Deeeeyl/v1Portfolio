@@ -4,7 +4,7 @@ import RightColumn from "./RightColumn";
 
 function Container() {
   return (
-    <div className="px-4 mx-auto my-16">
+    <div className="max-w-screen-lg min-h-screen gap-5 px-4 mx-auto my-16 lg:flex lg:justify-between">
       <LeftColumn />
       <RightColumn />
     </div>
