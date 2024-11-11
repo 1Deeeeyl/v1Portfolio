@@ -2,9 +2,9 @@
 
 function Technologies() {
   return (
-    <ul className="lg:flex">
-      <li>
-          <div className="flex items-center w-full gap-3 px-5 py-4 border bg-slate-500/10 rounded-xl border-slate-600 backdrop-blur-md">
+    <ul className="flex flex-col gap-5 lg:flex-row lg:flex-wrap">
+      <li className="lg:flex-grow">
+          <div className="flex items-center gap-3 px-5 py-4 border bg-slate-500/10 rounded-xl border-slate-600 backdrop-blur-md lg:grow">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
@@ -30,8 +30,9 @@ function Technologies() {
               <span className="font-light">Markup language</span>
             </div>
           </div>
-        
       </li>
+      
+      
     </ul>
   );
 }
