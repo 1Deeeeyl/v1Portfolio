@@ -1,10 +1,11 @@
 // import React from 'react'
+import "./AboutMe.css"
 
 function AboutMe() {
   return (
     <section>
       <section className="mb-[25px]">
-        <h2 className="font-sans font-bold text-[1.9rem] mb-[25px]">
+        <h2 className="font-sans font-bold  mb-[25px] category">
           About Me
         </h2>
         <p className="font-sans font-normal leading-relaxed tracking-wider text-slate-300">
@@ -15,7 +16,7 @@ function AboutMe() {
         </p>
       </section>
       <section>
-        <h3 className="font-sans font-bold text-[1.9rem]">
+        <h3 className="font-sans font-bold category">
           Technologies I Work With
         </h3>
         <p>
@@ -83,4 +84,3 @@ function AboutMe() {
 
 export default AboutMe;
 
-//add clamp sa h2s

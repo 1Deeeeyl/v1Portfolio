@@ -1,0 +1,3 @@
+.category{
+    font-size: clamp(1.5625rem, 1.4071rem + 0.663vw, 1.9375rem);
+}
