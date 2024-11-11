@@ -62,6 +62,7 @@ body {
   -webkit-font-smoothing: antialiased;
   background-color: var(--background-color);
   color: rgb(248 250 252);
+  
 }
 
 /* 5. Improve media defaults */
