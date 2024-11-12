@@ -1,0 +1,50 @@
+[
+  {
+    "title": "React",
+    "description": "UI Library",
+    "svg": "",
+    "accent":"#58C4DC"
+  },
+  {
+    "title": "Next.JS",
+    "description": "React Framework",
+    "svg": "",
+    "accent":"#F8FAFC"
+  },
+  {
+    "title": "Tailwind CSS",
+    "description": "CSS Framework",
+    "svg": "",
+    "accent":"#00acc1"
+  },
+  {
+    "title": "CSS",
+    "description": "Style Sheet language",
+    "logo": "<Css/>",
+    "accent":"#039BE5"
+  },
+  {
+    "title": "HTML",
+    "description": "Markup Language",
+    "logo": "HtmlLogo",
+    "accent":"#FF6D00"
+  },
+  {
+    "title": "JavaScript",
+    "description": "Programming Language",
+    "logo": "JSLogo",
+    "accent":"#ffd600"
+  },
+  {
+    "title": "Figma",
+    "description": "Design Tool",
+    "logo": "FigmaLogo",
+    "accent":"#66bb6a"
+  },
+  {
+    "title": "Git",
+    "description": "Version Control",
+    "logo": "GitLogo",
+    "accent":"#F4511E"
+  }
+]
