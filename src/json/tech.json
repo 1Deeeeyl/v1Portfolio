@@ -1,0 +1,26 @@
+[
+  {
+    "title": "React",
+    "description": "UI Library",
+    "svg": "",
+    "accent":"'#FF6D00'"
+  },
+  {
+    "title": "Next.JS",
+    "description": "React Framework",
+    "svg": "",
+    "accent":"'#F8FAFC'"
+  },
+  {
+    "title": "Tailwind CSS",
+    "description": "CSS Framework",
+    "svg": "",
+    "accent":"'#00acc1'"
+  },
+  {
+    "title": "CSS",
+    "description": "Style Sheet language",
+    "logo": "<Css/>",
+    "accent":"'#00acc1'"
+  }
+]
