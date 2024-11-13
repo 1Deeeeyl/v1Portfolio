@@ -10,7 +10,7 @@ function AboutMe() {
           About Me
         </h2>
         <p className="font-sans font-normal leading-relaxed tracking-wider text-slate-300">
-          I’m a 23-year-old former UI/UX designer turned frontend developer, now
+          I<span>&apos;</span>m a 23-year-old former UI/UX designer turned frontend developer, now
           diving into backend development to become a full-stack developer. Away
           from the keyboard, I spend my time learning how to draw, working under
           my car, or taking photos outside.
@@ -20,7 +20,8 @@ function AboutMe() {
         <h2 className="font-sans font-bold category mb-[25px]">
           Technologies I Work With
         </h2>
-        <Technologies></Technologies>
+        <Technologies/>
+        <p className="font-sans text-[0.8rem] mt-3">I am currently learning <span className="font-bold">Node.JS</span >, <span className="font-bold">Express</span>, and <span className="font-bold">MongoDB</span>.</p>
       </section>
     </section>
   );

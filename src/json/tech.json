@@ -2,50 +2,42 @@
   {
     "title": "React",
     "description": "UI Library",
-    "logo": "ReactLogo",
-    "accent":"hover:border-[#58C4DC] hover:shadow-[0_25px_50px_-12px_rgba(88,196,220,0.3)]"
+    "logo": "ReactLogo"
   },
   {
     "title": "Next.JS",
     "description": "React Framework",
-    "logo": "NextJSLogo",
-    "accent":"hover:border-[#F8FAFC] hover:shadow-[0_25px_50px_-12px_rgba(248,250,252,0.3)]"
+    "logo": "NextJSLogo"
   },
   {
     "title": "Tailwind CSS",
     "description": "CSS Framework",
-    "logo": "TailwindLogo",
-    "accent":"hover:border-[#F8C4DC] hover:shadow-[0_25px_50px_-12px_rgba(88,196,220,0.3)]"
+    "logo": "TailwindLogo"
   },
   {
     "title": "CSS",
     "description": "Style Sheet language",
-    "logo": "CssLogo",
-    "accent":""
+    "logo": "CssLogo"
   },
   {
     "title": "HTML",
     "description": "Markup Language",
-    "logo": "HtmlLogo",
-    "accent":""
+    "logo": "HtmlLogo"
   },
   {
     "title": "JavaScript",
     "description": "Programming Language",
-    "logo": "JSLogo",
-    "accent":""
+    "logo": "JSLogo"
   },
   {
     "title": "Figma",
     "description": "Design Tool",
-    "logo": "FigmaLogo",
-    "accent":""
+    "logo": "FigmaLogo"
   },
   {
     "title": "Git",
     "description": "Version Control",
-    "logo": "GitLogo",
-    "accent":""
+    "logo": "GitLogo"
   }
 ]
 

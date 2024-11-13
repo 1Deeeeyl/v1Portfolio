@@ -8,7 +8,7 @@ function Header() {
     <header className="lg:w-1/2 lg:max-h-screen lg:flex lg:flex-col lg:py-24 lg:justify-between lg:sticky lg:top-0">
       <div>
         <h1 className="font-sans font-bold ">
-          Hello, I&apos;m Dale.
+          Hello, I<span>&apos;</span>m Dale.
           <span className="inline-block ml-2 align-center hand size-9"></span>
         </h1>
         <h2 className="mt-1 font-sans font-medium tracking-wider title">

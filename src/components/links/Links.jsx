@@ -12,7 +12,7 @@ function Links() {
           target="_blank"
           rel="noreferrer noopener"
           aria-label="Opens résumé."
-          className="ml-2.5 underline decoration-slate-50 decoration-solid decoration-2 underline-offset-2"
+          className="ml-2.5 underline decoration-slate-50 decoration-solid decoration-2 underline-offset-2 font-medium"
         >
           My Résumé
         </a>
