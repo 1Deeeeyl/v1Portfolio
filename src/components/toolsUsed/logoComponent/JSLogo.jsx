@@ -9,7 +9,7 @@ function JSLogo() {
       width="100"
       height="100"
       viewBox="0 0 48 48"
-      className="size-12"
+      className="flex-none size-12"
     >
       <path fill="#ffd600" d="M6,42V6h36v36H6z"></path>
       <path
