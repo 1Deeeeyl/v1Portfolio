@@ -1,16 +1,19 @@
 // import React from 'react'
 
-function Jobs({position,company,date,description}) {
+function Jobs({ position, company, date, description }) {
   return (
-    <li>
+    <li className="">
       <div className="">
         <h3 className="font-sans text-xl font-medium tracking-wide mb-2.5">
-          Freelance Multimedia Designer @{" "}
-          <span className="font-sans font-bold text-[#25DBFF]">iPhiTech</span>
+          {position} @&nbsp;
+          <span className="font-sans font-bold text-[#25DBFF]">{company}</span>
         </h3>
-        <p className="text-slate-300 mb-2.5">August 2023 - November 2023</p>
+        <p className="text-slate-300 mb-2.5">{date}</p>
       </div>
-      <div className="flex w-full gap-4">
+      <ul className="flex flex-col gap-[15px]">
+        {description.map((bullet,index)=>{
+          return(
+            <li className="flex w-full gap-4" key={index}>
         <svg
           width="100px"
           height="100px"
@@ -23,14 +26,14 @@ function Jobs({position,company,date,description}) {
         </svg>
 
         <p className="font-sans font-normal leading-relaxed tracking-wider text-slate-300 ">
-          At iPhiTech IT and Digital Solutions, I worked as a freelance
-          Multimedia Designer, focusing on designing user-friendly websites and
-          mobile app interfaces that aligned with clients
-          <span>&apos;</span> brand identities. I created graphics, edited
-          videos, and developed product mockups to help brands increase
-          engagement and improve their marketing efforts.
+         {bullet}
         </p>
-      </div>
+      </li>
+          )
+        })}
+      
+      
+      </ul>
       
     </li>
   );
