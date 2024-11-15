@@ -5,7 +5,7 @@ import items from "../../json/experience.json";
 
 function Experience() {
   return (
-    <section>
+    
       <section className="mb-[25px]">
         <h2 className="font-sans font-bold  mb-[25px] category">Experience</h2>
         <ul className="flex flex-col gap-[25px]">
@@ -22,7 +22,7 @@ function Experience() {
           })}
         </ul>
       </section>
-    </section>
+    
   );
 }
 
