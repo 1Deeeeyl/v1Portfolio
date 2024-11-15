@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 
 - change link of resume, source code, and live demo
+- npm i
+- npm run dev
+- 
