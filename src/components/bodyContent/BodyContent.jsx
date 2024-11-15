@@ -5,7 +5,7 @@ import Experience from "../experience/Experience";
 
 function BodyContent() {
   return (
-    <main className="flex flex-col gap-[100px] mt-16 lg:m-0 lg:w-1/2 lg:py-[100px]">
+    <main className="flex flex-col gap-[100px]">
       <AboutMe/>
       <Experience/>
     </main>
