@@ -2,15 +2,29 @@
 import "./Header.css";
 import Nav from "../nav/Nav";
 import Links from "../links/Links";
+import { motion } from "framer-motion";
 
 function Header() {
   return (
     <header className="lg:w-1/2 lg:max-h-screen lg:flex lg:flex-col lg:py-[100px] lg:justify-between lg:sticky lg:top-0">
       <div>
-        <h1 className="font-sans font-bold ">
-          Hello, I<span>&apos;</span>m Dale.
-          <span className="inline-block ml-2 align-center hand size-9"></span>
-        </h1>
+      <h1 className="font-sans font-bold">
+      Hello, I<span>&apos;</span>m Dale.
+      <motion.span
+        className="inline-block ml-2 align-center hand size-9"
+        initial={{ rotate: 0 }}  
+        animate={{
+          rotate: [0, 20, -20, 20, -20, 0], 
+        }}
+        whileHover={{
+          rotate: [0, 15, -15, 15, -15, 0], 
+        }}
+        transition={{
+          duration: 0.9, 
+          ease: "easeInOut", 
+        }}
+      />
+    </h1>
         <h2 className="mt-1 font-sans font-medium tracking-wider title ">
           Front-End Developer
         </h2>
