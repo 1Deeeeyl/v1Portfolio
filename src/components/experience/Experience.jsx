@@ -6,8 +6,8 @@ import items from "../../json/experience.json";
 function Experience() {
   return (
     
-      <section className="mb-[25px]">
-        <h2 className="font-sans font-bold  mb-[25px] category">Experience</h2>
+      <section className="lg:scroll-mt-[100px]" id="experience">
+        <h2 className="font-sans font-bold  mb-[25px] category">Experiences</h2>
         <ul className="flex flex-col gap-[25px]">
           {items.map((item, index) => {
             return (
