@@ -1,14 +1,13 @@
 // import React from 'react'
 import "./Links.css";
-
 function Links() {
   return (
     <ul className="flex mt-10 space-x-4">
-      <li>
-        <span className="inline-block text-base align-top point size-6"></span>
+      <li className=" group">
+        <span className="inline-block text-base align-top transition-transform duration-300 ease-in-out point size-6 group-hover:translate-x-[8px]"></span>
         <a
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          // change this!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          // change this!!!!
           target="_blank"
           rel="noreferrer noopener"
           aria-label="Opens résumé."
