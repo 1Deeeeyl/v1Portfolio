@@ -6,7 +6,7 @@ import Projects from "../projects/Projects";
 
 function BodyContent() {
   return (
-    <main className="flex flex-col gap-[100px]">
+    <main className="flex flex-col gap-[100px] ">
       <AboutMe/>
       <Experience/>
       <Projects/>

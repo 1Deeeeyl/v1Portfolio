@@ -3,8 +3,8 @@ import otoFocusImg from "../../assets/images/projects/OtoFocus.png";
 
 function Projects() {
   return (
-    <section className="mb-[25px]">
-      <h2 className="font-sans font-bold  mb-[25px] category">Experience</h2>
+    <section className="lg:scroll-mt-[100px]" id="projects">
+      <h2 className="font-sans font-bold  mb-[25px] category">Projects</h2>
       <ul className="flex flex-col gap-[25px]">
         <li className="w-full overflow-hidden border bg-slate-500/10 rounded-xl border-slate-600 backdrop-blur-md pb-[30px]">
           <a

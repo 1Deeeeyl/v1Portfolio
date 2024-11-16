@@ -25,7 +25,7 @@ function Header() {
         }}
       />
     </h1>
-        <h2 className="mt-1 font-sans font-medium tracking-wider title ">
+        <h2 className="mt-1 font-sans font-medium tracking-wider title text-slate-300">
           Front-End Developer
         </h2>
         <p className="flex items-center mt-5 font-sans font-medium tracking-wider">

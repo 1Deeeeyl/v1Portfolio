@@ -4,8 +4,8 @@ import "./AboutMe.css"
 
 function AboutMe() {
   return (
-    <section>
-      <section className="mb-[25px]">
+    <section id="about" className="lg:scroll-mt-[100px]">
+      <section className="mb-[25px]" >
         <h2 className="font-sans font-bold  mb-[25px] category">
           About Me
         </h2>
