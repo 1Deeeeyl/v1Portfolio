@@ -4,7 +4,9 @@ import otoFocusImg from "../../assets/images/projects/OtoFocus.png";
 function Projects() {
   return (
     <section className="lg:scroll-mt-[100px]" id="projects">
-      <h2 className="font-sans font-bold  mb-[25px] category">Projects</h2>
+      <h2 className="sticky top-0 z-20 w-screen px-6 py-[25px] font-sans font-bold  lg:mb-[25px] category -mx-6 backdrop-blur md:-mx-12 md:px-12  lg:static lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0">
+        Projects
+      </h2>
       <ul className="flex flex-col gap-[25px]">
         <li className="w-full overflow-hidden border bg-slate-500/10 rounded-xl border-slate-600 backdrop-blur-md pb-[30px]">
           <a
