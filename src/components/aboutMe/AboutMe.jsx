@@ -1,10 +1,10 @@
 // import React from 'react'
 import Technologies from "../Technologies/Technologies";
 import "./AboutMe.css";
-
+import { Element } from 'react-scroll';
 function AboutMe() {
   return (
-    <section id="about" className="lg:scroll-mt-[100px]">
+    <Element id="about" className="lg:scroll-mt-[100px]">
       <h2 className="sticky top-0 z-20 w-screen px-6 py-[25px] font-sans font-bold  lg:mb-[25px] category -mx-6 backdrop-blur md:-mx-12 md:px-12  lg:static lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0">
         About Me
       </h2>
@@ -28,7 +28,7 @@ function AboutMe() {
           <span className="font-bold">MongoDB</span>.
         </p>
       </section>
-    </section>
+    </Element>
   );
 }
 
