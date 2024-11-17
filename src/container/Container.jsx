@@ -13,4 +13,3 @@ function Container() {
 
 export default Container;
 
-// ayusin containers width

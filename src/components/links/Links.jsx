@@ -7,7 +7,7 @@ function Links() {
         <span className="inline-block text-base transition-transform duration-300 ease-in-out point size-6 group-hover:translate-x-[7.5px]"></span>
         <a
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          // change this!!!!
+          // CHANGE THISSSS!!!!
           target="_blank"
           rel="noreferrer noopener"
           aria-label="Opens résumé."
