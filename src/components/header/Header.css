@@ -11,7 +11,7 @@ p {
 
 .hand {
   background-image: url("../../assets/images/emoji/wavingHand.png");
-  background-size: contain; /* Ensures the image fills the span */
-  background-repeat: no-repeat; /* Prevents image repetition */
+  background-size: contain; 
+  background-repeat: no-repeat; 
   cursor: pointer;
 }

@@ -12,8 +12,8 @@ function Projects() {
         <li className="w-full overflow-hidden border bg-slate-500/10 rounded-xl border-slate-600 backdrop-blur-md pb-[30px]">
           <a
             href="https://www.larrychenphoto.com/"
-            // CHANGE THSSS
-            className="relative block overflow-hidden group"
+          // CHANGE THISSSS!!!!
+          className="relative block overflow-hidden group"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="Opens Live Demo"
@@ -45,8 +45,8 @@ function Projects() {
               <a
                 className="bg-black text-slate-50 px-[15px] py-[5px] rounded-md flex flex-row items-center gap-[10px]"
                 href="https://github.com/1Deeeeyl/v1Portfolio"
-                // CHANGE THISSSS
-                target="_blank"
+          // CHANGE THISSSS!!!!
+          target="_blank"
                 rel="noreferrer noopener"
                 aria-label="Opens Source Code."
               >

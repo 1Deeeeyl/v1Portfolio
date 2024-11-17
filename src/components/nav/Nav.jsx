@@ -5,7 +5,6 @@ import { useState } from "react";
 function Nav() {
   const [activeSection, setActiveSection] = useState("");
 
-  // Callback function for when the section becomes active
   const handleSetActive = (section) => {
     setActiveSection(section);
   };
