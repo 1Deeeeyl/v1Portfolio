@@ -6,8 +6,8 @@ function ToolsUsed({ title, description, logo, accent }) {
       <div
         className={`flex items-center gap-4 px-5 py-4 border bg-slate-500/10 rounded-xl border-slate-600 hover:bg-slate-500/20 backdrop-blur-md transition-all ease-in-out duration-200 ${accent}`}
       >
-        {logo}
-
+        
+        <img src={logo} type="" className="flex-none size-12"></img>
         <div className="flex flex-col ">
           <h3 className="text-xl font-bold">{title}</h3>
           <span className="font-light">{description}</span>
