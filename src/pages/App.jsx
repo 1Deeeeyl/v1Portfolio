@@ -1,12 +1,14 @@
 // import React from 'react'
-import Container from "../container/Container";
-import Blob from "../components/blob/Blob";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import Home from "./home/Home";
 const App = () => {
   return (
-    <>
-      <Blob />
-      <Container />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+    </BrowserRouter>
   );
 };
 

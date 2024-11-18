@@ -40,6 +40,9 @@ function Projects() {
               <li className="bg-slate-50/15 text-slate-50 px-[15px] py-[5px] rounded-full border border-slate-50">
                 Next.JS
               </li>
+              <li className="bg-[#00acc1]/15 text-[#00acc1] px-[15px] py-[5px] rounded-full border border-[#00acc1]">
+                Tailwind CSS
+              </li>
             </ul>
             <div className="flex flex-row flex-wrap gap-x-2.5 gap-y-4 flex-e justify-end">
               <a

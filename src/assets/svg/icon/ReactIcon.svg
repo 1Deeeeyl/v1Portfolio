@@ -1,8 +1,4 @@
-// import React from "react";
-
-function ReactLogo() {
-  return (
-    <svg
+<svg
       xmlns="http://www.w3.org/2000/svg"
       x="0px"
       y="0px"
@@ -25,7 +21,3 @@ function ReactLogo() {
       ></path>
       <circle cx="24" cy="24" r="4" fill="#58C4DC"></circle>
     </svg>
-  );
-}
-
-export default ReactLogo;

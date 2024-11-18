@@ -1,8 +1,4 @@
-// import React from 'react'
-
-function CssLogo() {
-  return (
-    <svg
+<svg
       xmlns="http://www.w3.org/2000/svg"
       x="0px"
       y="0px"
@@ -22,7 +18,3 @@ function CssLogo() {
         d="M24,13v4h-8.9l-0.3-4H24z M19.4,21l0.2,4H24v-4H19.4z M19.8,27h-4l0.3,5.5l7.9,2.6v-4.2l-4.1-1.4L19.8,27z"
       ></path>
     </svg>
-  );
-}
-
-export default CssLogo;
