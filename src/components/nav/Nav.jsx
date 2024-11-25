@@ -11,7 +11,7 @@ function Nav() {
 
   return (
     <nav className="hidden mt-10 lg:block">
-      <ul className="flex flex-col gap-3">
+      <ul className="flex flex-col gap-3 w-fit">
         <li className="group">
           <Link
             to="about"

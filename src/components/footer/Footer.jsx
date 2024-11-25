@@ -8,7 +8,7 @@ function Footer() {
         designed in{" "}
         <a
           href="https://www.figma.com/"
-          className="font-bold"
+          className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200"
           target="_blank"
           rel="noreferrer noopener"
         >
@@ -17,7 +17,7 @@ function Footer() {
         and coded using{" "}
         <a
           href="https://code.visualstudio.com/"
-          className="font-bold"
+          className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200"
           target="_blank"
           rel="noreferrer noopener"
         >
@@ -26,7 +26,7 @@ function Footer() {
         on Windows OS. It was built with{" "}
         <a
           href="https://react.dev/"
-          className="font-bold"
+          className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200"
           target="_blank"
           rel="noreferrer noopener"
         >
@@ -35,7 +35,7 @@ function Footer() {
         and{" "}
         <a
           href="https://tailwindcss.com/"
-          className="font-bold"
+          className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200"
           target="_blank"
           rel="noreferrer noopener"
         >
@@ -44,7 +44,7 @@ function Footer() {
         , featuring{" "}
         <a
           href="https://fonts.google.com/specimen/DM+Sans"
-          className="font-bold"
+          className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200"
           target="_blank"
           rel="noreferrer noopener"
         >

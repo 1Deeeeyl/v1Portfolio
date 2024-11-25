@@ -1,0 +1,23 @@
+[
+    {
+      "projectLink": "https://www.larrychenphoto.com/",
+      "image": "OtoFocus.png",
+      "title": "OtoFocus",
+      "summary": "My personal photography portfolio website showcases my car photography, featuring a collection of my best shots from various events.",
+      "technologies": ["Next","Tailwind"],
+      "hasButton": true,
+      "sourceCode": "https://tailwindcss.com/docs/width",
+      "isLiveDemo": true
+    },
+    {
+      "projectLink": "https://github.com/1Deeeeyl/yelpcamp",
+      "image": "YelpCamp.png",
+      "title": "YelpCamp",
+      "summary": "A full-stack web application created from Colt Steele's Web Developer Bootcamp. The project covers both front-end and back-end development, featuring user authentication, database integration, and dynamic data handling for a fully functional web experience.",
+      "technologies": ["Monggo","Express","Node"],
+      "hasButton": true,
+      "sourceCode": "https://github.com/1Deeeeyl/yelpcamp",
+      "isLiveDemo": false
+    }
+  ]
+  

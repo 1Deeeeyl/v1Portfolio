@@ -114,3 +114,7 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+::selection {
+  background: #2595ac;
+}
