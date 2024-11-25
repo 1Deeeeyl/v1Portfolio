@@ -1,5 +1,5 @@
 // import React from 'react'
-import Technologies from "../Technologies/Technologies";
+import Technologies from "../technologies/Technologies";
 import "./AboutMe.css";
 import { Element } from 'react-scroll';
 function AboutMe() {
