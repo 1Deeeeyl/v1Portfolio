@@ -6,5 +6,16 @@ import JSSVG from "./JSIcon.svg";
 import NextJSSVG from "./NextJSIcon.svg";
 import ReactSVG from "./ReactIcon.svg";
 import TailwindSVG from "./TailwindIcon.svg";
+import TsSVG from "./TsIcon.svg";
 
-export { CssSVG,FigmaSVG, GitSVG,HtmlSVG,JSSVG,NextJSSVG,ReactSVG,TailwindSVG};
+export {
+  CssSVG,
+  FigmaSVG,
+  GitSVG,
+  HtmlSVG,
+  JSSVG,
+  NextJSSVG,
+  ReactSVG,
+  TailwindSVG,
+  TsSVG,
+};

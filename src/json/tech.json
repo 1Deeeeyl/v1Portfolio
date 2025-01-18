@@ -38,6 +38,11 @@
     "title": "Git",
     "description": "Version Control",
     "logo": "GitLogo"
+  },
+  {
+    "title": "Typescript",
+    "description": "The better Javascript",
+    "logo": "TsLogo"
   }
 ]
 
