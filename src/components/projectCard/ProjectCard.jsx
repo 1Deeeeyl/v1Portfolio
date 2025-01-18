@@ -6,7 +6,8 @@ import {
   Monggo,
   Next,
   Tailwind,
-  Node
+  Node,
+  Typescript
 } from "../projectCardElements/ProjectCardElements";
 
 const tagsMapping = {
@@ -15,6 +16,7 @@ const tagsMapping = {
   Monggo: <Monggo />,
   Node: <Node />,
   Express: <Express />,
+  Typescript:<Typescript/>
 };
 
 function ProjectCard({

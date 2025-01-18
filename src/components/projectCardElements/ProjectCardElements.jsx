@@ -24,6 +24,11 @@ export const Express = () => (
     Express.JS
   </span>
 );
+export const Typescript = () => (
+  <span className="bg-[#1976d2]/15 text-[#1976d2] px-[15px] py-[5px] rounded-full border border-[#1976d2]">
+    Typescript
+  </span>
+);
 
 export const GitHubBtn = ({ sourceCode }) => (
   <div className="flex flex-row flex-wrap gap-x-2.5 gap-y-4 flex-e justify-end">

@@ -1,12 +1,12 @@
 [
     {
-      "projectLink": "https://www.larrychenphoto.com/",
+      "projectLink": "https://otofocus.vercel.app/",
       "image": "OtoFocus.png",
       "title": "OtoFocus",
       "summary": "My personal photography portfolio website showcases my car photography, featuring a collection of my best shots from various events.",
-      "technologies": ["Next","Tailwind"],
+      "technologies": ["Next","Tailwind", "Typescript"],
       "hasButton": true,
-      "sourceCode": "https://tailwindcss.com/docs/width",
+      "sourceCode": "https://github.com/1Deeeeyl/otofocus",
       "isLiveDemo": true
     },
     {
