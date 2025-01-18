@@ -1,14 +1,18 @@
-# React + Vite
+<a name="readme-top"></a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>My First Portfolio Website</h1>
 
-Currently, two official plugins are available:
+<div align="center" style="margin-top: 50px;">
+  <img src="https://raw.githubusercontent.com/1Deeeeyl/v1Portfolio/main/public/favicon/rp.svg" alt="Logo" width="200">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<a href='https://randale-porciuncula.pages.dev' target="_blank" rel="noopener noreferrer"><h1 align="center">randale-porciuncula.pages.dev</h1></a>
+
+</div>
+
+<div>
+
+</div>
 
 
-- change link of resume, source code, and live demo
-- npm i
-- npm run dev
-- 
+
+
