@@ -7,7 +7,6 @@ function Links() {
         <span className="inline-block text-base transition-transform duration-300 ease-in-out point size-6 group-hover:translate-x-[7.5px]"></span>
         <a
           href="/pdf/Randale-Porciuncula-Resume.pdf"
-         
           target="_blank"
           rel="noreferrer noopener"
           aria-label="Opens résumé."
@@ -56,7 +55,8 @@ function Links() {
           </svg>{" "}
         </a>
       </li>
-      <li>
+      {/* hide for now */}
+      <li className="hidden">
         <a
           href="https://codepen.io/Randale-Porciuncula"
           target="_blank"
