@@ -5,7 +5,10 @@
 <div align="center" >
   <img src="https://raw.githubusercontent.com/1Deeeeyl/v1Portfolio/main/public/favicon/rp.svg" alt="Logo" width="200" >
 
-<a href='https://randale-porciuncula.pages.dev' target="_blank" rel="noopener noreferrer"><h2 align="center">randale-porciuncula.pages.dev</h2></a>
+<h3 align="center">
+  <a href="https://randale-porciuncula.pages.dev" target="_blank" rel="noopener noreferrer">randale-porciuncula.pages.dev</a>
+</h3>
+
 
 </div>
 
