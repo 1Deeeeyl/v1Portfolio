@@ -16,7 +16,7 @@
   },
   {
     "title": "CSS",
-    "description": "Style Sheet language",
+    "description": "Style Sheet Language",
     "logo": "CssLogo"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "title": "Typescript",
-    "description": "The better Javascript",
+    "description": "The Better Javascript",
     "logo": "TsLogo"
   }
 ]
