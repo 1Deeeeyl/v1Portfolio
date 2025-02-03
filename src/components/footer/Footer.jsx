@@ -4,7 +4,16 @@ function Footer() {
   return (
     <footer>
       <p className="font-sans font-light leading-relaxed tracking-wider text-slate-300 text-[13px]">
-        © 2024 Randale Porciuncula. All rights reserved. This website was
+        Inspired from 
+        {" "}<a
+          href="https://brittanychiang.com/"
+          className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          Brittany Chiang's Wesbite
+        </a>.{" "}
+         This website was
         designed in{" "}
         <a
           href="https://www.figma.com/"
