@@ -6,7 +6,7 @@ function Links() {
       <li className="flex items-center group">
         <span className="inline-block text-base transition-transform duration-300 ease-in-out point size-6 group-hover:translate-x-[7.5px]"></span>
         <a
-          href="/pdf/Randale-Porciuncula-Resume.pdf"
+          href="/pdf/Porciuncula-Randale-Resume.pdf"
           target="_blank"
           rel="noreferrer noopener"
           aria-label="Opens résumé."
