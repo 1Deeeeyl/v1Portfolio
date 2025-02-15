@@ -29,6 +29,16 @@ export const Typescript = () => (
     Typescript
   </span>
 );
+export const React = () => (
+  <span className="bg-[#00d8ff]/15 text-[#00d8ff] px-[15px] py-[5px] rounded-full border border-[#00d8ff]">
+    React
+  </span>
+);
+export const Vite = () => (
+  <span className="bg-[#9575CD]/15 text-[#9575CD] px-[15px] py-[5px] rounded-full border border-[#9575CD]">
+    Vite
+  </span>
+);
 
 export const GitHubBtn = ({ sourceCode }) => (
   <div className="flex flex-row flex-wrap gap-x-2.5 gap-y-4 flex-e justify-end">

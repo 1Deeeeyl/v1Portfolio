@@ -1,13 +1,15 @@
 // import React from 'react'
 
 import {
-    Express,
+  Express,
   GitHubBtn,
   Monggo,
   Next,
   Tailwind,
   Node,
-  Typescript
+  Typescript,
+  React,
+  Vite,
 } from "../projectCardElements/ProjectCardElements";
 
 const tagsMapping = {
@@ -16,7 +18,9 @@ const tagsMapping = {
   Monggo: <Monggo />,
   Node: <Node />,
   Express: <Express />,
-  Typescript:<Typescript/>
+  Typescript: <Typescript />,
+  React: <React />,
+  Vite: <Vite />,
 };
 
 function ProjectCard({
@@ -27,7 +31,7 @@ function ProjectCard({
   technologies,
   hasButton,
   sourceCode,
-  isLiveDemo
+  isLiveDemo,
 }) {
   return (
     <li className="w-full overflow-hidden border bg-slate-500/10 rounded-xl border-slate-600 backdrop-blur-md pb-[30px] mb-[25px]">
@@ -44,7 +48,7 @@ function ProjectCard({
           className="w-full h-[267px] object-top object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
         />
         <div className="absolute inset-0 flex items-center justify-center text-2xl font-semibold text-[#25DBFF] transition-opacity duration-300 ease-in-out bg-black bg-opacity-80 opacity-0 group-hover:opacity-100 backdrop-blur-sm">
-        {isLiveDemo ? "Live Demo" : "Source Code Only"}
+          {isLiveDemo ? "Live Demo" : "Source Code Only"}
         </div>
       </a>
       <div className="mx-[30px] flex flex-col gap-[15px] mt-[30px]">

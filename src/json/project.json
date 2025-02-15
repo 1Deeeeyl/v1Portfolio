@@ -18,6 +18,16 @@
       "hasButton": true,
       "sourceCode": "https://github.com/1Deeeeyl/yelpcamp",
       "isLiveDemo": false
+    },
+    {
+      "projectLink": "https://basictodos.pages.dev/",
+      "image": "basictodo.png",
+      "title": "Basic To-Do App",
+      "summary": "A simple To-Do app built with React, Vite, and Tailwind. It allows users to add, edit, and delete tasks with basic CRUD functionality. The app features a clean, responsive design for easy task management.",
+      "technologies": ["Tailwind", "React","Vite"],
+      "hasButton": true,
+      "sourceCode": "https://github.com/1Deeeeyl/basic-todos",
+      "isLiveDemo": true
     }
   ]
   
