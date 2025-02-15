@@ -10,16 +10,6 @@
       "isLiveDemo": true
     },
     {
-      "projectLink": "https://github.com/1Deeeeyl/yelpcamp",
-      "image": "YelpCamp.png",
-      "title": "YelpCamp",
-      "summary": "A full-stack web application created from Colt Steele's Web Developer Bootcamp. The project covers both front-end and back-end development, featuring user authentication, database integration, and dynamic data handling for a fully functional web experience.",
-      "technologies": ["Monggo","Express","Node"],
-      "hasButton": true,
-      "sourceCode": "https://github.com/1Deeeeyl/yelpcamp",
-      "isLiveDemo": false
-    },
-    {
       "projectLink": "https://basictodos.pages.dev/",
       "image": "basictodo.png",
       "title": "Basic To-Do App",
@@ -28,6 +18,17 @@
       "hasButton": true,
       "sourceCode": "https://github.com/1Deeeeyl/basic-todos",
       "isLiveDemo": true
+    },
+    {
+      "projectLink": "https://github.com/1Deeeeyl/yelpcamp",
+      "image": "YelpCamp.png",
+      "title": "YelpCamp",
+      "summary": "A full-stack web application created from Colt Steele's Web Developer Bootcamp. The project covers both front-end and back-end development, featuring user authentication, database integration, and dynamic data handling for a fully functional web experience. (This project is still not complete)",
+      "technologies": ["Monggo","Express","Node"],
+      "hasButton": true,
+      "sourceCode": "https://github.com/1Deeeeyl/yelpcamp",
+      "isLiveDemo": false
     }
+    
   ]
   
