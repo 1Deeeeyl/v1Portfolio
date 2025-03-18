@@ -11,7 +11,7 @@ function AboutMe() {
 
       <section>
         <p className="font-sans font-normal leading-relaxed tracking-wider text-slate-300 mb-[25px]">
-          I<span>&apos;</span>m a 23-year-old&nbsp;
+          I<span>&apos;</span>m a&nbsp;
           <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
             former UI/UX designer turned front-end developer
           </span>
