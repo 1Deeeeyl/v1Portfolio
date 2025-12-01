@@ -7,6 +7,7 @@ import NextJSSVG from "./NextJSIcon.svg";
 import ReactSVG from "./ReactIcon.svg";
 import TailwindSVG from "./TailwindIcon.svg";
 import TsSVG from "./TsIcon.svg";
+import FramerSVG from "./FramerIcon.svg";
 
 export {
   CssSVG,
@@ -18,4 +19,5 @@ export {
   ReactSVG,
   TailwindSVG,
   TsSVG,
+  FramerSVG,
 };

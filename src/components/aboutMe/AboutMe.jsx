@@ -1,7 +1,7 @@
 // import React from 'react'
-import Technologies from '../technologies/Technologies';
-import './AboutMe.css';
-import { Element } from 'react-scroll';
+import Technologies from "../technologies/Technologies";
+import "./AboutMe.css";
+import { Element } from "react-scroll";
 function AboutMe() {
   return (
     <Element id="about" className="lg:scroll-mt-[100px]">
@@ -21,18 +21,18 @@ function AboutMe() {
         </p>
 
         <p className="font-sans font-normal leading-relaxed tracking-wider text-slate-300 mb-[25px]">
-          Away from the keyboard, I like to{' '}
+          Away from the keyboard, I like to{" "}
           <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
             sketch for fun
           </span>
-          ,{' '}
+          ,{" "}
           <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
             tinker with my car
           </span>
-          , or{' '}
+          , or{" "}
           <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
             head outside with my camera
-          </span>{' '}
+          </span>{" "}
           to capture whatever catches my eye.
         </p>
 
@@ -41,9 +41,40 @@ function AboutMe() {
         </h2>
         <Technologies />
         <p className="font-sans text-[0.8rem] mt-3">
-          I am currently learning <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">Node.JS</span>,{' '}
-          <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">Express</span>, and{' '}
-          <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">MongoDB</span>.
+          I am currently learning{" "}
+          <a
+            href="https://nodejs.org/en"
+            target="_blank"
+            rel="noreferrer noopener"
+            aria-label="Link to Node.JS"
+          >
+            <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
+              Node.JS
+            </span>
+          </a>
+          ,{" "}
+          <a
+            href="https://expressjs.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+            aria-label="Link to Express.JS"
+          >
+            <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
+              Express
+            </span>
+          </a>
+          , and{" "}
+          <a
+            href="https://www.mongodb.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+            aria-label="Link to MongoDB"
+          >
+            <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
+              MongoDB
+            </span>
+          </a>
+          .
         </p>
       </section>
     </Element>

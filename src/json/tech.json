@@ -10,6 +10,26 @@
     "logo": "NextJSLogo"
   },
   {
+    "title": "Typescript",
+    "description": "The Better Javascript",
+    "logo": "TsLogo"
+  },
+  {
+    "title": "Framer",
+    "description": "Visual Web Builder",
+    "logo": "FramerLogo"
+  },
+  {
+    "title": "Git",
+    "description": "Version Control",
+    "logo": "GitLogo"
+  },
+  {
+    "title": "Figma",
+    "description": "Design Tool",
+    "logo": "FigmaLogo"
+  },
+  {
     "title": "Tailwind CSS",
     "description": "CSS Framework",
     "logo": "TailwindLogo"
@@ -28,21 +48,5 @@
     "title": "JavaScript",
     "description": "Programming Language",
     "logo": "JSLogo"
-  },
-  {
-    "title": "Figma",
-    "description": "Design Tool",
-    "logo": "FigmaLogo"
-  },
-  {
-    "title": "Git",
-    "description": "Version Control",
-    "logo": "GitLogo"
-  },
-  {
-    "title": "Typescript",
-    "description": "The Better Javascript",
-    "logo": "TsLogo"
   }
 ]
-
