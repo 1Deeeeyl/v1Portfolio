@@ -8,6 +8,7 @@ import ReactSVG from "./ReactIcon.svg";
 import TailwindSVG from "./TailwindIcon.svg";
 import TsSVG from "./TsIcon.svg";
 import FramerSVG from "./FramerIcon.svg";
+import SupabaseSVG from "./SupabaseIcon.svg";
 
 export {
   CssSVG,
@@ -20,4 +21,5 @@ export {
   TailwindSVG,
   TsSVG,
   FramerSVG,
+  SupabaseSVG
 };

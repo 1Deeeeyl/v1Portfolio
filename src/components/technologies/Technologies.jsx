@@ -15,6 +15,7 @@ import {
   TailwindSVG,
   TsSVG,
   FramerSVG,
+  SupabaseSVG,
 } from "../../assets/svg/icon/index.js";
 
 const logoMapping = {
@@ -28,6 +29,7 @@ const logoMapping = {
   TailwindLogo: TailwindSVG,
   TsLogo: TsSVG,
   FramerLogo: FramerSVG,
+  SupabaseLogo: SupabaseSVG,
 };
 
 const accentMapping = {
@@ -48,6 +50,8 @@ const accentMapping = {
     "hover:border-[#1976d2] hover:shadow-[0_25px_50px_-12px_rgba(25,118,210,0.3)]",
   Framer:
     "hover:border-[#ffffff] hover:shadow-[0_25px_50px_-12px_rgba(225,225,225,0.3)]",
+  Supabase:
+    "hover:border-[#42D388] hover:shadow-[0_25px_50px_-12px_rgba(66,211,136,0.3)]",
 };
 
 function Technologies() {

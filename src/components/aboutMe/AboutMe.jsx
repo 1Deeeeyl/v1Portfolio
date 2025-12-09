@@ -49,7 +49,7 @@ function AboutMe() {
             aria-label="Link to Node.JS"
           >
             <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
-              Node.JS
+              Node.js
             </span>
           </a>
           ,{" "}
@@ -60,7 +60,7 @@ function AboutMe() {
             aria-label="Link to Express.JS"
           >
             <span className="font-bold hover:text-[#25DBFF] transition-all ease-in-out duration-200">
-              Express
+              Express.js
             </span>
           </a>
           , and{" "}

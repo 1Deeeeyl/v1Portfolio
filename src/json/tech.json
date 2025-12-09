@@ -5,13 +5,13 @@
     "logo": "ReactLogo"
   },
   {
-    "title": "Next.JS",
+    "title": "Next.js",
     "description": "React Framework",
     "logo": "NextJSLogo"
   },
   {
-    "title": "Typescript",
-    "description": "The Better Javascript",
+    "title": "TypeScript",
+    "description": "Typed JavaScript",
     "logo": "TsLogo"
   },
   {
@@ -48,5 +48,10 @@
     "title": "JavaScript",
     "description": "Programming Language",
     "logo": "JSLogo"
+  },
+  {
+    "title": "Supabase",
+    "description": "Postgres Backend Platform",
+    "logo": "SupabaseLogo"
   }
 ]
