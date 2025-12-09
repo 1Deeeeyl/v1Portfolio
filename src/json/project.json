@@ -1,34 +1,72 @@
 [
-    {
-      "projectLink": "https://otofocus.vercel.app/",
-      "image": "OtoFocus.png",
-      "title": "OtoFocus",
-      "summary": "My personal photography portfolio website showcases my car photography, featuring a collection of my best shots from various events.",
-      "technologies": ["Next","Tailwind", "Typescript"],
-      "hasButton": true,
-      "sourceCode": "https://github.com/1Deeeeyl/otofocus",
-      "isLiveDemo": true
-    },
-    {
-      "projectLink": "https://basictodos.pages.dev/",
-      "image": "basictodo.png",
-      "title": "Basic To-Do App",
-      "summary": "A simple To-Do app built with React, Vite, and Tailwind. It allows users to add, edit, and delete tasks with basic CRUD functionality. The app features a clean, responsive design for easy task management.",
-      "technologies": ["Tailwind", "React","Vite"],
-      "hasButton": true,
-      "sourceCode": "https://github.com/1Deeeeyl/basic-todos",
-      "isLiveDemo": true
-    },
-    {
-      "projectLink": "https://github.com/1Deeeeyl/yelpcamp",
-      "image": "YelpCamp.png",
-      "title": "YelpCamp",
-      "summary": "A full-stack web application created from Colt Steele's Web Developer Bootcamp. The project covers both front-end and back-end development, featuring user authentication, database integration, and dynamic data handling for a fully functional web experience.",
-      "technologies": ["Monggo","Express","Node"],
-      "hasButton": true,
-      "sourceCode": "https://github.com/1Deeeeyl/yelpcamp",
-      "isLiveDemo": false
-    }
-    
-  ]
-  
+  {
+    "projectLink": "https://goapexglobal.com/",
+    "image": "apexglobal.png",
+    "title": "Apex Global Website",
+    "summary": "A single-page digital marketing website built in Framer with smooth animations, modern layout design, and a clean visual flow. Designed to give APEX Global a strong digital presence and clearly communicate their services.",
+    "technologies": ["Framer"],
+    "hasButton": false,
+    "sourceCode": "https://github.com/1Deeeeyl/basic-todos",
+    "isLiveDemo": true
+  },
+  {
+    "projectLink": "https://onelabagency.com/",
+    "image": "onelab.png",
+    "title": "One Lab Agency Website",
+    "summary": "A modern Framer-built website created for APEX Global to showcase the type of high-quality, animated, responsive websites their digital marketing agency can provide to clients.",
+    "technologies": ["Framer"],
+    "hasButton": false,
+    "sourceCode": "https://github.com/1Deeeeyl/basic-todos",
+    "isLiveDemo": true
+  },
+  {
+    "projectLink": "https://multiple-activities-ten.vercel.app/",
+    "image": "login.png",
+    "title": "Multiple Activities",
+    "summary": "A multi-feature app containing five mini-applications showcasing Supabase CRUD, authentication, and data management. Includes a to-do list, photo manager (Google Drive Lite), food review app, Pokémon review app, and a Markdown notes application with live preview. (Supabase project expired.)",
+    "technologies": ["Next", "Supabase", "Tailwind", "Typescript"],
+    "hasButton": true,
+    "sourceCode": "https://github.com/1Deeeeyl/multiple-activities",
+    "isLiveDemo": false
+  },
+  {
+    "projectLink": "https://secret-page-delta.vercel.app/",
+    "image": "login.png",
+    "title": "Secret Page",
+    "summary": "A multi-page authentication app where users can register, log in, view secret messages, create/update their own messages, manage friendships, and access protected content with proper permission handling. (Supabase project expired)",
+    "technologies": ["Next", "Supabase", "Tailwind", "Typescript"],
+    "hasButton": true,
+    "sourceCode": "https://github.com/1Deeeeyl/secret-page",
+    "isLiveDemo": false
+  },
+  {
+    "projectLink": "https://basictodos.pages.dev/",
+    "image": "basictodo.png",
+    "title": "Basic To-Do App",
+    "summary": "A simple To-Do app built with React, Vite, and Tailwind. It allows users to add, edit, and delete tasks with basic CRUD functionality. The app features a clean, responsive design for easy task management.",
+    "technologies": ["Tailwind", "React", "Vite"],
+    "hasButton": true,
+    "sourceCode": "https://github.com/1Deeeeyl/basic-todos",
+    "isLiveDemo": true
+  },
+  {
+    "projectLink": "https://otofocus.vercel.app/",
+    "image": "OtoFocus.png",
+    "title": "OtoFocus",
+    "summary": "My personal photography portfolio website showcases my car photography, featuring a collection of my best shots from various events.",
+    "technologies": ["Next", "Tailwind", "Typescript"],
+    "hasButton": true,
+    "sourceCode": "https://github.com/1Deeeeyl/otofocus",
+    "isLiveDemo": true
+  },
+  {
+    "projectLink": "https://github.com/1Deeeeyl/yelpcamp",
+    "image": "YelpCamp.png",
+    "title": "YelpCamp",
+    "summary": "A full-stack web application created from Colt Steele's Web Developer Bootcamp. The project covers both front-end and back-end development, featuring user authentication, database integration, and dynamic data handling for a fully functional web experience.",
+    "technologies": ["Monggo", "Express", "Node"],
+    "hasButton": true,
+    "sourceCode": "https://github.com/1Deeeeyl/yelpcamp",
+    "isLiveDemo": false
+  }
+]

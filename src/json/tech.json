@@ -5,9 +5,29 @@
     "logo": "ReactLogo"
   },
   {
-    "title": "Next.JS",
+    "title": "Next.js",
     "description": "React Framework",
     "logo": "NextJSLogo"
+  },
+  {
+    "title": "TypeScript",
+    "description": "Typed JavaScript",
+    "logo": "TsLogo"
+  },
+  {
+    "title": "Framer",
+    "description": "Visual Web Builder",
+    "logo": "FramerLogo"
+  },
+  {
+    "title": "Git",
+    "description": "Version Control",
+    "logo": "GitLogo"
+  },
+  {
+    "title": "Figma",
+    "description": "Design Tool",
+    "logo": "FigmaLogo"
   },
   {
     "title": "Tailwind CSS",
@@ -30,19 +50,8 @@
     "logo": "JSLogo"
   },
   {
-    "title": "Figma",
-    "description": "Design Tool",
-    "logo": "FigmaLogo"
-  },
-  {
-    "title": "Git",
-    "description": "Version Control",
-    "logo": "GitLogo"
-  },
-  {
-    "title": "Typescript",
-    "description": "The Better Javascript",
-    "logo": "TsLogo"
+    "title": "Supabase",
+    "description": "Postgres Backend Platform",
+    "logo": "SupabaseLogo"
   }
 ]
-

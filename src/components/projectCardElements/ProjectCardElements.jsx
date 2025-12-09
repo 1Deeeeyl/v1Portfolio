@@ -1,6 +1,6 @@
 export const Next = () => (
   <span className="bg-slate-50/15 text-slate-50 px-[15px] py-[5px] rounded-full border border-slate-50">
-    Next.JS
+    Next.js
   </span>
 );
 
@@ -16,12 +16,12 @@ export const Monggo = () => (
 );
 export const Node = () => (
   <span className="bg-[#3c873a]/15 text-[#3c873a] px-[15px] py-[5px] rounded-full border border-[#3c873a]">
-    Node.JS
+    Node.js
   </span>
 );
 export const Express = () => (
   <span className="bg-slate-50/15 text-slate-50 px-[15px] py-[5px] rounded-full border border-slate-50">
-    Express.JS
+    Express.js
   </span>
 );
 export const Typescript = () => (
@@ -37,6 +37,16 @@ export const React = () => (
 export const Vite = () => (
   <span className="bg-[#9575CD]/15 text-[#9575CD] px-[15px] py-[5px] rounded-full border border-[#9575CD]">
     Vite
+  </span>
+);
+export const Framer = () => (
+  <span className="bg-[#ffffff]/15 text-[#ffffff] px-[15px] py-[5px] rounded-full border border-[#ffffff]">
+    Framer
+  </span>
+);
+export const Supabase = () => (
+  <span className="bg-[#42D388]/15 text-[#42D388] px-[15px] py-[5px] rounded-full border border-[#42D388]">
+    Supabase
   </span>
 );
 

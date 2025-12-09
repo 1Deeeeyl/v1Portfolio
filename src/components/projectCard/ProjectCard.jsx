@@ -10,6 +10,8 @@ import {
   Typescript,
   React,
   Vite,
+  Framer,
+  Supabase
 } from "../projectCardElements/ProjectCardElements";
 
 const tagsMapping = {
@@ -21,6 +23,8 @@ const tagsMapping = {
   Typescript: <Typescript />,
   React: <React />,
   Vite: <Vite />,
+  Framer: <Framer />,
+  Supabase: <Supabase />,
 };
 
 function ProjectCard({
@@ -56,7 +60,7 @@ function ProjectCard({
           {title}
         </h3>
         <p className="">{summary}</p>
-        <ul className="flex flex-row flex-wrap gap-x-2.5 gap-y-4">
+        <ul className="flex flex-row flex-wrap gap-x-2.5 gap-y-4 mb-4">
           {technologies.map((technology, index) => {
             const TechnologyTag = tagsMapping[technology]; // Get the component by technology name
             return <li key={index}>{TechnologyTag}</li>; // Render the component
